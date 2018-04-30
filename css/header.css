@@ -1,0 +1,75 @@
+.navi .navbar-brand {
+
+
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+
+    color: #000;
+    background-color:transparent;
+
+
+}
+
+.navi .nav >li >a {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    align-items: center;
+    font-size: large;
+    height: 35px;
+    line-height: 28px;
+    border-top:3px solid #000000;
+    margin-top: 2px;
+    color: #fff;
+    font-weight:lighter;
+    text-align:center;
+    text-decoration: none;
+    display: block;
+    -webkit-transition: .2s all linear;
+    -moz-transition: .2s all linear;
+    -o-transition: .2s all linear;
+    transition: .2s all linear;
+
+}
+
+.wrp{
+    width:95%;
+}
+.wrp1{
+    width:95%;
+}
+.navbar{
+    height: 120px;
+    background-color: #00acee;
+    background: #00acee; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#009edf, #00acee); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#009edf, #00acee); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#009edf, #00acee); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#009edf, #00acee); /* Standard syntax */
+
+}
+.navi{
+    height: 120px;
+}
+
+
+.navi .btn{
+    margin-left: 25px;
+    margin-top:40px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+    font-size: medium;
+}
+
+.nav li.active a, .nav li a:hover {
+
+    border-bottom:3px solid #5f5b5b;
+    height: 0px;
+    color:#5aa1d8;
+    background-color: #5f5b5b;
+
+
+}

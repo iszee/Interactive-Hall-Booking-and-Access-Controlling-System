@@ -1,0 +1,13 @@
+body{
+	background-image: url(../images/img5.jpg);
+	background-size: cover;
+}
+#signup{
+	margin-left: 300px; 
+	margin-top: 200px; 
+	background-color: #e6ebff; 
+	border-radius: 30px;
+}
+#fsignup{
+	margin-top: 20px;
+}
